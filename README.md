@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm @nepinhum</h1>
 
-- 🌱 I’m currently learning **nothing...**
+- 🌱 I’m currently learning **V & Java**
 
 - 📫 Contact **@nepinhum**
 
