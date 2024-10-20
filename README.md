@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm @nepinhum</h1>
 <p>Eh... I am a strange person who is torn between doing something or not doing, and is ostracised from society for being below today's standards :P.</p>
-- 🌱 I’m currently learning V & Java
+
+- 🌱 I’m currently learning **V & Java**
 
 - 📫 Contact **@nepinhum** ⚠️ Unfortunately I'm not active on Discord because of restrictions in my country. ⚠️
 
